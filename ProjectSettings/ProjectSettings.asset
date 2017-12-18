@@ -10,7 +10,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Udacity
+  companyName: Susan Oslin
   productName: Build an Apartment
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -141,7 +141,7 @@ PlayerSettings:
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier:
-    Android: com.Udacity.BuildAnApartment
+    Android: com.SusanOslin.BuildAnApartment
     Standalone: com.Udacity.BuildAnApartment
     Tizen: com.MattSonic.Course2Project
     iOS: com.Udacity.BuildAnApartment
